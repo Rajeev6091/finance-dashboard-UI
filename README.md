@@ -131,8 +131,6 @@ npm install
 npm run dev
 ```
 
-The app opens at **http://localhost:3000**.
-
 ### Build for Production
 
 ```bash
@@ -163,5 +161,7 @@ npm run preview
 - Transactions are stored in React state — a production app would use a backend API.
 - The 50-row table limit is a UX choice for performance; pagination could be added.
 
+---
 
-
+Live Demo
+🔗 View Live Demo : [finance-dashboard-six-teal.vercel.app](https://finance-dashboard-six-teal.vercel.app/)
