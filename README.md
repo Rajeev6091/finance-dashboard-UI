@@ -163,5 +163,4 @@ npm run preview
 
 ---
 
-Live Demo
 🔗 View Live Demo : [finance-dashboard-six-teal.vercel.app](https://finance-dashboard-six-teal.vercel.app/)
